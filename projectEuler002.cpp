@@ -12,7 +12,7 @@ int main(){
 
   nOne = 0;
   nTwo = 1;
-  limit = 987;
+  limit = 4000000;
   placeMarker = 0;
   sum = 0;
 
