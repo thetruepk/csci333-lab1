@@ -16,3 +16,4 @@ clean:
 	rm -f *~
 	rm -f hello
 	rm -f problem001
+	rm -f Problem002
